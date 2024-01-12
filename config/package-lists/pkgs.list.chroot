@@ -22,7 +22,6 @@ mc
 rclone
 thunderbird
 gnome-mines
-rsync
 parted
 feh
 htop
@@ -61,8 +60,6 @@ wxhexeditor
 hexedit
 sshfs
 vinagre
-x2goclient
-openssh-server
 tigervnc-viewer
 tigervnc-standalone-server
 nmap
