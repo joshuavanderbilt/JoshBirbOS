@@ -68,7 +68,6 @@ dns323-firmware-tools
 firmware-ath9k-htc
 firmware-linux-free
 grub-firmware-qemu
-calamares
 calamares-settings-debian
 sigrok-firmware-fx2lafw
 amd64-microcode
